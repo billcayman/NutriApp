@@ -1,0 +1,14 @@
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\NutriApp.exe.config
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\NutriApp.exe
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\NutriApp.pdb
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\obj\Debug\NutriApp.exe
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\obj\Debug\NutriApp.pdb
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\EntityFramework.dll
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\System.Data.SQLite.dll
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\EntityFramework.xml
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GizyatullinB\Desktop\Scripts\NutriApp\project\project\bin\Debug\System.Data.SQLite.xml
